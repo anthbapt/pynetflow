@@ -1,0 +1,7 @@
+matplotlib
+networkx
+scipy
+numpy
+pandas
+xgi
+opencv-python

@@ -1,0 +1,7 @@
+name: pynetflow
+channels:
+  - anaconda
+dependencies:
+  - pip
+  - pip:
+    - -r requirements.txt
