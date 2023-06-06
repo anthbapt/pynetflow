@@ -32,10 +32,9 @@ This repository contains the Python package called pynetflow, which enables the 
 Data
 -----------------
 
+``toy_network.csv`` : Adjacency matrix for a small network with a single connected component of 44 nodes
 
-``toy_data.csv`` : 
-
-``toy_network.csv`` :
+``toy_data.csv`` : A data matrix of 10 columns (samples) and 44 rows (each corresponding to e.g. gene expression of a node of the above adj mat)
 
 -----------------
 Usage
