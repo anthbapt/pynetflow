@@ -26,7 +26,7 @@ This repository contains the Python package called pynetflow, which enables the 
 
 * ``ricci_curvature.py`` : This library contains the functions to compute the Forman-Ricci curvature on a simplicial complexes. The Forman-Ricci curvature is calculated for every cell, regardless of its orderomputed for every cells whatever their order.
 * ``ricci_flow.py`` : This library contains the functions to compute the Forman-Ricci curvature on a network, and to run the Forman-Ricci flow on this network.
-* ``ricci_vis.py`` : This library contains the functions for visualizing the Forman-Ricci curvature on simplicial complexes. Users can utilize the ``visualize_order`` function to display the network and curvature for a specific order, or employ the ``visualize_all`` function to display the network and curvature for every order. Additionally, this library includes a function to display the curvature evolution of the network during the flow process and generate a video documenting the flow.
+* ``ricci_vis.py`` : This library contains the functions for visualizing the Forman-Ricci curvature on simplicial complexes. Users can utilize the visualize_order function to display the network and curvature for a specific order, or employ the visualize_all function to display the network and curvature for every order. Additionally, this library includes a function to display the curvature evolution of the network during the flow process and generate a video documenting the flow.
 
 
 
