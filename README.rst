@@ -1,9 +1,8 @@
-.. image:: pynetflow_logo.png
-   :width: 100
-   
 =============================================================================================
 pynetflow : Python network Ricci curvature and flow
 =============================================================================================
+.. image:: pynetflow_logo.png
+   :width: 100
 
 .. image:: https://github.com/anthbapt/pynetflow/workflows/CI/badge.svg
     :target: https://github.com/anthbapt/pynetflow/actions?query=branch%3Amaster+workflow%3ACI
