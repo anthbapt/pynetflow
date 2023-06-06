@@ -40,6 +40,39 @@ Data
 Usage
 -----------------
 
+Ricci curvature and visualisation
+-----------------
+
+
+.. code-block:: python
+
+    SC = xgi.SimplicialComplex()
+    SC.add_simplices_from([[3, 4, 5], [3, 5, 6], [6, 7, 8, 9], [1, 4, 10, 11, 2], [1, 3, 10, 11, 2], [1, 0]])
+    pos = xgi.barycenter_spring_layout(SC)
+    
+    # For visualise only the curvature of nodes (order = 0)
+    visualize_order(SC, 0)
+    
+.. image:: figures/test_ricci_curvature_nodes.png
+   :width: 200
+   
+.. code-block:: python
+    # For visualise only the curvature of edges (order = 1)
+    visualize_order(SC, 1)
+    
+.. image:: figures/test_ricci_curvature_edges.png
+   :width: 200
+    
+.. code-block:: python
+    # For visualise only the curvature of triangles (order = 2)
+    visualize_order(SC, 2)
+    
+.. image:: figures/test_ricci_curvature_triangles.png
+   :width: 200
+   
+
+Ricci flow
+-----------------
 After having checked and/or modified the script parameters in accordance to your data, set the desired number of iterations and run the following Python code : 
 
 .. code-block:: python
