@@ -55,7 +55,7 @@ Ricci curvature and visualisation
     
     
 .. image:: figures/test_ricci_curvature_nodes.png
-   :width: 200
+   :width: 400
    
    
 .. code-block:: python
@@ -65,7 +65,7 @@ Ricci curvature and visualisation
     
     
 .. image:: figures/test_ricci_curvature_edges.png
-   :width: 200
+   :width: 400
     
 .. code-block:: python
 
@@ -73,7 +73,7 @@ Ricci curvature and visualisation
     visualize_order(SC, 2)
     
 .. image:: figures/test_ricci_curvature_triangles.png
-   :width: 200
+   :width: 400
    
 
 Ricci flow
