@@ -53,17 +53,22 @@ Ricci curvature and visualisation
     # For visualise only the curvature of nodes (order = 0)
     visualize_order(SC, 0)
     
+    
 .. image:: figures/test_ricci_curvature_nodes.png
    :width: 200
    
+   
 .. code-block:: python
+
     # For visualise only the curvature of edges (order = 1)
     visualize_order(SC, 1)
+    
     
 .. image:: figures/test_ricci_curvature_edges.png
    :width: 200
     
 .. code-block:: python
+
     # For visualise only the curvature of triangles (order = 2)
     visualize_order(SC, 2)
     
