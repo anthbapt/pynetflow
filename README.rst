@@ -1,4 +1,7 @@
 =============================================================================================
+.. image:: pynetflow_logo.png
+   :width: 100
+   
 pynetflow : Python network Ricci curvature and flow
 =============================================================================================
 
@@ -7,8 +10,7 @@ pynetflow : Python network Ricci curvature and flow
  
 This repository contains an algorithm for Ricci curvature and Ricci flow.
 
-.. image:: pynetflow_logo.png
-   :width: 300
+
 
 -----------------
  Installation
