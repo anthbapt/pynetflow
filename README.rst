@@ -1,14 +1,13 @@
 =============================================================================================
 pynetflow : Python network Ricci curvature and flow
 =============================================================================================
-.. image:: pynetflow_logo.png
-   :width: 100
-
 .. image:: https://github.com/anthbapt/pynetflow/workflows/CI/badge.svg
     :target: https://github.com/anthbapt/pynetflow/actions?query=branch%3Amaster+workflow%3ACI
  
-This repository contains an algorithm for Ricci curvature and Ricci flow.
+This repository contains the Python package called pynetflow, which enables the computation of Ricci curvature and Ricci flow. It also provides visualization capabilities for the network and its curvature throughout the flow process. Additionally, it implements a function to compute Ricci curvature on simplicial complexes and visualize the curvature of various cells based on their order.
 
+.. image:: pynetflow_logo.png
+   :width: 200
 
 
 -----------------
