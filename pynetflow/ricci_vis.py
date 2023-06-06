@@ -1,4 +1,4 @@
-from ricci_curvature import forman_degree, forman_hyperedge
+from pynetflow.ricci_curvature import forman_degree, forman_hyperedge
 import matplotlib.pyplot as plt
 from matplotlib import cm
 import networkx as nx
