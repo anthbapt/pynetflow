@@ -2,8 +2,8 @@
 pynetflow : Python network Ricci curvature and flow
 =============================================================================================
 
-.. image:: https://github.com/anthbapt/itRWR/workflows/CI/badge.svg
-    :target: https://github.com/anthbapt/itRWR/actions?query=branch%3Amaster+workflow%3ACI
+.. image:: https://github.com/anthbapt/pynetflow/workflows/CI/badge.svg
+    :target: https://github.com/anthbapt/pynetflow/actions?query=branch%3Amaster+workflow%3ACI
  
 This repository contains an algorithm for Ricci curvature and Ricci flow.
 
