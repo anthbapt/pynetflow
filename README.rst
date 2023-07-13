@@ -100,3 +100,7 @@ After having checked and/or modified the script parameters in accordance to your
     
     ricciflow = RicciFlow_normalised(G, ve_init, ve_final, Niter = n_iter, eta = eta)
 
+The `pynetflow documentation <https://pynetflow-doc.readthedocs.io/>`_ is hosted at ReadTheDocs.
+
+Pynetflow is maintained by Anthony Baptista (anthony dot baptista at qmul dot ac dot uk)
+
